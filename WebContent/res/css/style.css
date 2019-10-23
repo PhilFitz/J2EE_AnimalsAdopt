@@ -1,0 +1,114 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+html,body{
+	width:100%;
+	height: 100%;
+}
+
+.main{
+	width: 100%;
+	height: 100%;
+}
+
+#top{
+	width: 100%;
+	height: 10%;
+	background-color: #B2D0E7;
+}
+
+#middle{
+	width: 100%;
+	height:90%;
+	height: overflow;
+}
+
+#left{
+	width: 16%;
+	float:left;
+	height:100%;
+	background-color:#E8E8E8;
+	
+}
+
+#right{
+	width: 80%;
+	height: 100%;
+	overflow: auto;
+	float:right;
+}
+
+#title1{
+	color:#fff;
+	display:inline-block;
+	height:50px;
+	line-height:50px;
+	font-size:30px;
+	margin-left:40px;
+	float:left;
+	font-family: "Jokerman";
+}
+
+.login{
+	float:right;
+	height:50px;
+	margin-right:30px;
+}
+
+.login li{
+	height:50px;
+	line-height:50px;
+	display:inline-block;
+	width:90px;
+}
+.login li a{
+	color:#fff;
+	font-size: 15px;
+	text-decoration: none;
+}
+
+.menu{
+	margin-top:30px;
+	margin-left:40px;
+}
+.menu li{
+	line-height:40px;
+	list-style: none;
+}
+.menu li a {
+	font-family: "迷你简丫丫";
+	color:black;
+	text-decoration: none;
+}
+i{
+	margin-right:10px;
+}
+h2 a{
+	color:#fff;
+	text-decoration: none;
+}
+.tip h4{
+	font-size:30px;
+	text-align:center;
+	margin:5px;
+}
+
+.tip{
+	width:800px;
+	height:350px;
+	padding:20px;
+	margin:10px;
+	border:4px solid #ccc;
+	border-radius:5px;
+	font-family: "华文仿宋";
+}
+
+.tip p{
+	line-height: 35px;
+	font-size:20px;
+}
+.contract{
+	font-size: 16px !important;
+	color: #D78;
+}

@@ -1,0 +1,52 @@
+@charset "UTF-8";
+* {
+	margin: 0;
+	padding: 0;
+}
+
+dl {
+	display: inline-block;
+	position: relative;
+}
+
+dt {
+	
+}
+
+.starpic {
+	width: 150px;
+	height: 150px;
+	border: 3px solid #ccc;
+	border-radius: 5px;
+	display: inline;
+	margin: 5px;
+}
+
+dd {
+	width: 150px;
+	height: 30px;
+	line-height: 30px;
+	font-size: 15px;
+	background-color: #ccc;
+	display: inline-block;
+	position: absolute;
+	bottom: 5px;
+	left: 5px;
+}
+
+dd a {
+	font-family: "迷你简丫丫";
+	color: black;
+	text-decoration: none;
+}
+
+p {
+	display: inline-block;
+	font-family: "迷你简丫丫";
+	font-size: 20px;
+	color: #fff;
+	background-color: #ccc;
+	padding: 10px;
+	margin: 15px;
+	border-radius: 5px;
+}

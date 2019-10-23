@@ -1,0 +1,37 @@
+@charset "UTF-8";
+form{
+	margin:20px;
+	font-family:"幼圆";
+	width:300px;
+	border:5px solid #ccc;
+	padding:20px;
+	border-radius: 10px;
+}
+
+h3{
+	margin:10px 20px 10px 20px;
+}
+
+input{
+	width:200px;
+	height:24px;
+	padding-left: 10px;
+	margin-bottom: 5px;
+	margin-top: 5px;
+	border:1px solid #ccc;
+	border-radius:5px;
+	
+}
+label{
+	font-size: 15px;
+}
+button{
+	margin:10px;
+	border:none;
+	font-size:15px;
+	border:1px solid #B2D0E7;
+	background-color: #fff;
+	padding:5px 22px;
+	font-family:"幼圆";
+	border-radius:4px;
+}
